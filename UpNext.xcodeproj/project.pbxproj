@@ -15,6 +15,7 @@
 		876EC6601CC4801E004F51CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 876EC65E1CC4801E004F51CB /* LaunchScreen.storyboard */; };
 		876EC66B1CC4801E004F51CB /* UpNextTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 876EC66A1CC4801E004F51CB /* UpNextTests.swift */; };
 		876EC6761CC4801E004F51CB /* UpNextUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 876EC6751CC4801E004F51CB /* UpNextUITests.swift */; };
+		876EC6841CC48189004F51CB /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 876EC6831CC48189004F51CB /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		876EC6711CC4801E004F51CB /* UpNextUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UpNextUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		876EC6751CC4801E004F51CB /* UpNextUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpNextUITests.swift; sourceTree = "<group>"; };
 		876EC6771CC4801E004F51CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		876EC6831CC48189004F51CB /* ThirdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				876EC6551CC4801E004F51CB /* FirstViewController.swift */,
 				876EC6571CC4801E004F51CB /* SecondViewController.swift */,
 				876EC6591CC4801E004F51CB /* Main.storyboard */,
+				876EC6831CC48189004F51CB /* ThirdViewController.swift */,
 				876EC65C1CC4801E004F51CB /* Assets.xcassets */,
 				876EC65E1CC4801E004F51CB /* LaunchScreen.storyboard */,
 				876EC6611CC4801E004F51CB /* Info.plist */,
@@ -264,6 +267,7 @@
 			files = (
 				876EC6581CC4801E004F51CB /* SecondViewController.swift in Sources */,
 				876EC6541CC4801E004F51CB /* AppDelegate.swift in Sources */,
+				876EC6841CC48189004F51CB /* ThirdViewController.swift in Sources */,
 				876EC6561CC4801E004F51CB /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
